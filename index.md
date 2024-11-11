@@ -12,3 +12,9 @@ x = True
 if x:
    print("TRUUUUUUUE!")
 ```
+
+- [X] balked at the somewhat vague instructions
+- [X] wondered which file "the file we've created" actually was
+- [X] decided that it was still this one
+- [X] made this list
+- [ ] finished this tutorial
